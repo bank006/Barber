@@ -93,7 +93,7 @@ const Profile = () => {
                                     >
                                         Delete picture
                                     </button>
-                                    {user?.role == 'barber' &&
+                                    {/* {user?.role == 'barber' &&
                                         <button
                                             onClick={Createbarber}
                                             type='button'
@@ -101,7 +101,7 @@ const Profile = () => {
                                         >
                                             Create barber
                                         </button>
-                                    }
+                                    } */}
 
                                 </div>
                             </div>
